@@ -74,4 +74,4 @@ Host: `bandit.labs.overthewire.org`, porta `2220`. Le password dei livelli non s
 - `man` e `--help` come prima fonte per capire un comando nuovo.
 
 ## Note personali
-[Scrivi qui 2-3 righe tue: il livello più difficile e perché, o cosa faresti diversamente.]
+Il livello su cui ho riscontrato più difficoltà è dall'11 al 12. Ho trovato più complicato del resto la ROT13.
