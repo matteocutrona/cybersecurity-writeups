@@ -9,4 +9,4 @@ Non pubblico password o flag: solo il ragionamento.
 - [Bandit, livelli 0-11](bandit-0-11.md) (OverTheWire)
 
 #Su di me
-Sono un ex studente di informatica appassionato di tecnologia e vorrei imparare a lavorare nel settore.
+-Sono un ex studente di informatica appassionato di tecnologia e vorrei imparare a lavorare nel settore.
