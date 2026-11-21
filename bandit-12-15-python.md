@@ -50,7 +50,9 @@ with open("prova.txt") as f:
 print(len(testo.split()))
 ```
 
-**Il mio script:** [incolla qui lo script che hai scritto tu, se l'hai già fatto]
-
-## Note personali
-[Scrivi 2-3 righe tue: cosa hai capito meglio e il punto in cui ti sei bloccato.]
+**Il mio script:** 
+def contaparole(nomefile):
+    with open(nomefile,"r") as f:
+        contents=f.read()
+        parole=contents.split()
+    return len(parole)
